@@ -4,7 +4,7 @@ Just starting a collection of small but useful ideas / tips / tricks / patterns 
 
 ## 🏭 Async Factory [C#]
 
-During development of a hybrid library to interact with the browser game *Gladiatus* I found myself having to asynchronously populate class instances at instantiation time. Since constructors return an instance of their type, by nature they can not return a `Task` and therefore can not be asynchronous. Hence `await` in class constructors is not possible and class members that need to be initialized with fetched data can not be initialized from the constructor.
+During development of a hybrid library to interact with the browser game *Gladiatus* I found myself having to asynchronously populate class instances at instantiation time. Since constructors return an instance of their type, by nature they can not return a `Task` and therefore can not be asynchronous. Hence `await` in class constructors is not possible and class members that need to be initialized with fetched data can not be populated from the constructor.
 
 I spent a few hours thinking about this and came up with an elegant solution - I can abstract the factory pattern to allow for asynchronous population!
 

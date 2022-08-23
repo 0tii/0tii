@@ -30,7 +30,7 @@ public sealed class Container
 
 This does not take advantage of asynchronicity yet, so far we only got a bare-bones factory that returns an instance of `Container` (it basically just statically wraps the constructor).
 
-We can now add a `private` `async` instance method to take care of our initialization and asynchronously `await` that on the instance our `static` method `CreateInstanceAsync`creates before returning:
+Now we just add a `private` `async` instance method to take care of our initialization and asynchronously `await` that on the instance our `static` method `CreateInstanceAsync` creates before returning:
 
 ```C#
 public sealed class Container
@@ -60,7 +60,7 @@ public sealed class Container
 }
 ```
 
-We can now create a fully populated class instance simply by awaiting the factory method `CreateInstanceAsync` without having to worry about synchronicity issues or forgetting to call a dreaded `Initialize()` on a `new` instance.
+And voila! We can now create a fully populated class instance simply by awaiting the factory method `CreateInstanceAsync` without having to worry about synchronicity issues or forgetting to call a dreaded `Initialize()` on a `new` instance.
 ____________________
 
 

@@ -64,7 +64,7 @@ And voila! We can now create a fully populated class instance simply by awaiting
 ____________________
 
 
-<img align="left" width="350" height="150" src="https://github-readme-stats.vercel.app/api?username=0tii&show_icons=true&theme=tokyonight" />
+<img align="left" width="450" height="150" src="https://github-readme-stats.vercel.app/api?username=0tii&show_icons=true&theme=tokyonight" />
 
-<img align="right" width="350" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0tii&layout=compact" />
+<img align="right" width="450" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0tii&layout=compact" />
 

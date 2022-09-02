@@ -6,8 +6,8 @@ Just starting a collection of small but useful ideas / tips / tricks / patterns 
 Design pattern to create asynchronously populated class instances
 
 ### - [⛓️ Extension Methods [**C#**]](https://gist.github.com/0tii/513a638e06a3020d888a917eae38d91f)   <sub>(29.08.2022)</sub>
-Running list of self-written useful extension methods
-______________________________
+Collection of useful extension methods to aid writing declarative code.
+
 # 🚧 Personal Projects
 
 ### [⚔️ GladiatusApi](https://github.com/0tii/GladiatusApi) <img width="16" height="16" src="https://i.imgur.com/i2EFPlU.png" />

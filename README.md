@@ -20,7 +20,7 @@ _______________________________
 A REST-like API supplying endpoints to aid common business processes
 - Status: *Abandoned*
 
-#### [🖥️ html-to-pdf](https://github.com/0tii/html-to-pdf) <img width="16" height="16" src="https://img.icons8.com/color/344/javascript--v1.png" />
+#### [🖥️ html-to-pdf](https://github.com/0tii/html-to-pdf) <img width="16" height="16" src="https://img.icons8.com/color/344/javascript--v1.png" /><img width="16" height="16" src="https://img.icons8.com/color/96/typescript.png" />
 An easy-to-use but reliable asynchronous library to create highly customizable PDFs from HTML or URL as buffer, base64 string and .pdf file
 - Status: *Finished / Released*
 
@@ -44,7 +44,7 @@ Remove Sheet Protection from .xlsx files. Easily.
 Python command-line tool to create SQL Databases from leaked Twitch Earnings
 - Status: *Finished / Released*
 
-#### [📡 S0nar](https://github.com/0tii/s0nar) <img width="16" height="16" src="https://img.icons8.com/color/344/java-coffee-cup-logo--v1.png" />
+#### [📡 S0nar](https://github.com/0tii/s0nar) <img width="24" height="24" src="https://img.icons8.com/color/344/java-coffee-cup-logo--v1.png" />
 Lightweight but powerful event system to create and process source code hooks
 - Status: *Finished / Released*
 ____________________

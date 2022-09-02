@@ -15,6 +15,8 @@ A public library for automatically interacting with the browser game Gladiatus b
 - Status: *WIP / Early Development*
 _______________________________
 ### 📜 Project history
+<details>
+<summary>Show project history</summary>
 
 #### [🛠️ Business Tools Api](https://github.com/0tii/businesstools) <img width="16" height="16" src="https://img.icons8.com/color/96/typescript.png" />
 A REST-like API supplying endpoints to aid common business processes
@@ -47,6 +49,8 @@ Python command-line tool to create SQL Databases from leaked Twitch Earnings
 #### [📡 S0nar](https://github.com/0tii/s0nar) <img width="24" height="24" src="https://img.icons8.com/color/344/java-coffee-cup-logo--v1.png" />
 Lightweight but powerful event system to create and process source code hooks
 - Status: *Finished / Released*
+</details>
+
 ____________________
 
 

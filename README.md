@@ -1,4 +1,4 @@
-# 📝 My little Dev Blog
+# 📝 My Dev Blog
 
 Just starting a collection of small but useful ideas / tips / tricks / patterns to combat modern problems elegantly. This 'blog' might grow over time, or stay small, it really depends.
 
@@ -7,8 +7,8 @@ Design pattern to create asynchronously populated class instances
 
 ### - [⛓️ Extension Methods [**C#**]](https://gist.github.com/0tii/513a638e06a3020d888a917eae38d91f)   <sub>(29.08.2022)</sub>
 Running list of self-written useful extension methods
-
-# 🚧 Projects
+______________________________
+# 🚧 Personal Projects
 
 ### [⚔️ GladiatusApi](https://github.com/0tii/GladiatusApi) <img width="16" height="16" src="https://i.imgur.com/i2EFPlU.png" />
 A public library for automatically interacting with the browser game Gladiatus by Gameforge
@@ -34,6 +34,18 @@ RESTful, MySQL-backed Web Api to get guaranteed collision-free guids
 
 #### [🔎 mc-status](https://github.com/0tii/Mc-Status) <img width="16" height="16" src="https://img.icons8.com/color/344/javascript--v1.png" />
 Async node.js implementation of the UDP Minecraft Server Query Protocol and TCP Minecraft Server List Ping Protocol.
+- Status: *Finished / Released*
+
+#### [🔓 Excel Sheet Unblocker](https://github.com/0tii/ExcelSheetUnblocker) <img width="16" height="16" src="https://img.icons8.com/color/344/python--v1.png" />
+Remove Sheet Protection from .xlsx files. Easily.
+- Status: *Finished / Released*
+
+#### [💾 Twitch Revenue SQLite](https://github.com/0tii/TwitchRevenueSQLite) <img width="16" height="16" src="https://img.icons8.com/color/344/python--v1.png" />
+Python command-line tool to create SQL Databases from leaked Twitch Earnings
+- Status: *Finished / Released*
+
+#### [📡 S0nar](https://github.com/0tii/s0nar) <img width="16" height="16" src="https://img.icons8.com/color/344/java-coffee-cup-logo--v1.png" />
+Lightweight but powerful event system to create and process source code hooks
 - Status: *Finished / Released*
 ____________________
 

@@ -16,7 +16,7 @@ A public library for automatically interacting with the browser game Gladiatus b
 
 ### 📜 Project history
 <details>
-<summary>Show project history</summary>
+<summary><b><h3>Show project history</h3></b></summary>
 
 #### [🛠️ Business Tools Api](https://github.com/0tii/businesstools) <img width="16" height="16" src="https://img.icons8.com/color/96/typescript.png" />
 A REST-like API supplying endpoints to aid common business processes

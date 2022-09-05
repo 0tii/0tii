@@ -56,5 +56,5 @@ ____________________
 
 <img align="left" width="400" height="150" src="https://github-readme-stats.vercel.app/api?username=0tii&show_icons=true&theme=tokyonight" />
 
-<img align="right" width="400" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0tii&layout=compact&langs_count=6" />
+<img align="right" width="400" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0tii&layout=compact&langs_count=8" />
 

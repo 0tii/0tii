@@ -11,7 +11,7 @@ Collection of useful extension methods to aid writing declarative code.
 # 🚧 Personal Projects
 
 ### [⚔️ GladiatusApi](https://github.com/0tii/GladiatusApi) <img width="16" height="16" src="https://i.imgur.com/i2EFPlU.png" />
-A public library for automatically interacting with the browser game Gladiatus by Gameforge
+A public library to automate interacting with the browser game Gladiatus by Gameforge
 - Status: *WIP / Early Development*
 
 ### 📜 Project history

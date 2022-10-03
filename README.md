@@ -16,6 +16,7 @@ A public library to automate interacting with the browser game Gladiatus by Game
 
 #### [⚔️🔓 GladiatusApi Auth Retriever](https://github.com/0tii/GladiApiAuthRetriever)<img width="16" height="16" src="https://img.icons8.com/color/344/javascript--v1.png" />
 A cross-browser extension that retrieves authentication data for a gladiatus character in order to authenticate with GladiatusApi. Saves manually getting cookies, server id and session hash.
+- Status: *Released*
 
 ### 📜 Project history
 <details>

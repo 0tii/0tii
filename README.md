@@ -14,6 +14,9 @@ Collection of useful extension methods to aid writing declarative code.
 A public library to automate interacting with the browser game Gladiatus by Gameforge
 - Status: *WIP / Early Development*
 
+#### [⚔️🔓 GladiatusApi Auth Retriever](https://github.com/0tii/GladiApiAuthRetriever)<img width="16" height="16" src="https://img.icons8.com/color/344/javascript--v1.png" />
+A cross-browser extension that retrieves authentication data for a gladiatus character in order to authenticate with GladiatusApi. Saves manually getting cookies, server id and session hash.
+
 ### 📜 Project history
 <details>
 <summary><b><h3>Show project history</h3></b></summary>

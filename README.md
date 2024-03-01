@@ -2,6 +2,7 @@
 
 Just starting a collection of small but useful ideas / tips / tricks / patterns to combat modern problems elegantly. This 'blog' might grow over time, or stay small, it really depends.
 ### - [🐧Proper Expo Dev-Builds with Windows and WSL!](https://medium.com/@danielrauhut/running-expo-dev-builds-from-wsl-on-your-windows-virtual-devices-android-emulator-bd7cc7e29418) <sub>(02.03.2024)</sub>
+Build and React Native Expo builds in WSL and run them in Virtual Devices on Windows
 
 ### - [🏭 Async Factory [**C#**]](https://gist.github.com/0tii/096eb289f4dcd6feb471a5f883fe6177)   <sub>(23.08.2022)</sub>
 Design pattern to create asynchronously populated class instances

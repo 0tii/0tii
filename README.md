@@ -1,6 +1,10 @@
 # 📝 My Dev Blog
 
 Just starting a collection of small but useful ideas / tips / tricks / patterns to combat modern problems elegantly. This 'blog' might grow over time, or stay small, it really depends.
+
+### . [🔗 Expo / React Native compatible Drop-In replacement for fetch with a timeout](https://gist.github.com/0tii/ff3f153b89fa77b34333a894b3e5abbd) <sub>(07.03.2024)</sub>
+Use fetch as you always would, but be able to pass `timeout` to its native options
+
 ### - [🐧Proper Expo Dev-Builds with Windows and WSL!](https://medium.com/@danielrauhut/running-expo-dev-builds-from-wsl-on-your-windows-virtual-devices-android-emulator-bd7cc7e29418) <sub>(02.03.2024)</sub>
 Build React Native Expo builds in WSL and run them in Virtual Devices on Windows
 

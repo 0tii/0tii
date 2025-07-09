@@ -2,8 +2,8 @@
 
 Just starting a collection of small but useful ideas / tips / tricks / patterns to combat modern problems elegantly. This 'blog' might grow over time, or stay small, it really depends.
 
-### . [🧰 Git CLI aliase and function toolkit](https://gist.github.com/0tii/d109b0aee67e999fe182bcac14c1af5e) <sub>(09.07.2025)</sub>
-Supercharge your git interactions with these useful bashrc functions and aliases!
+### . [🧰 Git CLI Alias & Function Toolkit](https://gist.github.com/0tii/d109b0aee67e999fe182bcac14c1af5e) <sub>(09.07.2025)</sub>
+Supercharge your Git workflow with these handy `.bashrc` functions and shortcuts.
 
 ### . [🔗 Expo / React Native compatible Drop-In replacement for fetch with a timeout](https://gist.github.com/0tii/ff3f153b89fa77b34333a894b3e5abbd) <sub>(07.03.2024)</sub>
 Use fetch as you always would, but be able to pass `timeout` to its native options

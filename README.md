@@ -2,16 +2,19 @@
 
 Just starting a collection of small but useful ideas / tips / tricks / patterns to combat modern problems elegantly. This 'blog' might grow over time, or stay small, it really depends.
 
+### . [🧰 Git CLI aliase and function toolkit](https://gist.github.com/0tii/d109b0aee67e999fe182bcac14c1af5e) <sub>(09.07.2025)</sub>
+Supercharge your git interactions with these useful bashrc functions and aliases!
+
 ### . [🔗 Expo / React Native compatible Drop-In replacement for fetch with a timeout](https://gist.github.com/0tii/ff3f153b89fa77b34333a894b3e5abbd) <sub>(07.03.2024)</sub>
 Use fetch as you always would, but be able to pass `timeout` to its native options
 
-### - [🐧Proper Expo Dev-Builds with Windows and WSL!](https://medium.com/@danielrauhut/running-expo-dev-builds-from-wsl-on-your-windows-virtual-devices-android-emulator-bd7cc7e29418) <sub>(02.03.2024)</sub>
+### . [🐧Proper Expo Dev-Builds with Windows and WSL!](https://medium.com/@danielrauhut/running-expo-dev-builds-from-wsl-on-your-windows-virtual-devices-android-emulator-bd7cc7e29418) <sub>(02.03.2024)</sub>
 Build React Native Expo builds in WSL and run them in Virtual Devices on Windows
 
-### - [🏭 Async Factory [**C#**]](https://gist.github.com/0tii/096eb289f4dcd6feb471a5f883fe6177)   <sub>(23.08.2022)</sub>
+### . [🏭 Async Factory [**C#**]](https://gist.github.com/0tii/096eb289f4dcd6feb471a5f883fe6177)   <sub>(23.08.2022)</sub>
 Design pattern to create asynchronously populated class instances
 
-### - [⛓️ Extension Methods [**C#**]](https://gist.github.com/0tii/513a638e06a3020d888a917eae38d91f)   <sub>(29.08.2022)</sub>
+### . [⛓️ Extension Methods [**C#**]](https://gist.github.com/0tii/513a638e06a3020d888a917eae38d91f)   <sub>(29.08.2022)</sub>
 Collection of useful extension methods to aid writing declarative code.
 
 # 🚧 Personal Projects
